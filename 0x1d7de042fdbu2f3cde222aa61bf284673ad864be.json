@@ -1,0 +1,28 @@
+{
+  "symbol": "DRU",
+  "address": "0x1d7de042fdbu2f3cde222aa61bf284673ad864be",
+  "overview":{
+        "en": "Project For The Lengendry.",
+        "zh": ""
+  },
+  "email": "delinus@gmail.com",
+  "website": "https://gugt.com/",
+  "whitepaper": "https://coudr.com/file.pdf",
+  "state": "NORMAL",
+  "published_on": "2018-012-11",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "blog": "https://gudcom/blog",
+    "twitter": "https://twitter.com/dug",
+    "telegram": "https://t.me/dug",
+    "github": "https://github.com/dug",
+    "facebook": "https://www.facebook.com/dug",
+    "reddit": "https://www.reddit.com/r/dug/",
+    "slack": "https://grett.slack.com",
+    "medium": "https://medium.comdug"
+  }
+}
